@@ -1,0 +1,21 @@
+body{
+    background-image: url(Ponderar.jfif);
+}
+
+main#container{
+    border-width: 10px; border-style: solid; border-radius: 10%; border-color: #23e5ff;
+    background-color: #388cb3bb;
+    box-shadow: 0 0 6px 6px #1d0acaab;
+}
+
+h1.titulo{
+    color: #100118d5;
+    font-family: 'Marker Felt', fantasy
+}
+
+p.frase{
+    font-family: 'Trattatello', fantasy
+}
+
+p.autor{
+    font-family: 'Marker Felt', fantasy;
